@@ -1,0 +1,22 @@
+.weapon {
+	background-color: #fff;
+	border: 2px solid transparent;
+	border-radius: 50%;
+	display: inline-block;
+	color: #4B6A90;
+	font-size: 60px;
+	padding: 20px;
+	text-align: center;
+
+	&.empty {
+		background-color: transparent;
+		border: 2px dashed #fff;
+		color: #fff;
+		font-size: 30px;
+	}
+}
+
+.size {
+	width: 60px;
+	height: 60px;
+}

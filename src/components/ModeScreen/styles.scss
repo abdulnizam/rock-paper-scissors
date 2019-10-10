@@ -1,0 +1,23 @@
+.modescreen {
+  text-align: center;
+	padding: 10px;
+
+  li {
+    list-style-type: none;
+  }
+  .label {
+    background-color: #FFA500;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  }
+
+  button {
+		font-size: 12px;
+		margin-top: 10px;
+		padding: 4px 7px;
+	}
+}
